@@ -53,7 +53,7 @@ tr:nth-child(odd) /*{ background-color: #dddddd; }*/
     width: 300px;
 }
 .gearTable tr td:nth-child(2), .gearTable tr th:nth-child(2), .gearTable tr td:nth-child(3), .gearTable tr th:nth-child(3), .gearTable tr td:nth-child(4), .gearTable tr th:nth-child(4), .gearTable tr td:nth-child(5), .gearTable tr th:nth-child(5), {
-    width: 150px;
+    width: 200px;
 }
 
 
